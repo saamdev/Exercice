@@ -12,7 +12,7 @@
 
 body{
      background-image: url('images/bg-desktop.svg');
-     background-color: hsl(257, 40%, 49%);
+     background-color: hsl(189, 87%, 49%);
      
      width: 100%;
      background-repeat: no-repeat;
@@ -103,7 +103,7 @@ body{
      border-radius: 30px;
      font-size: 18px;
      font-family: 'Open Sans', sans-serif;
-     color:  hsl(257, 40%, 49%);
+     color:  hsl(187, 82%, 2%);
      box-shadow:  black 1px 1px 15px ;
 }
 .fab{
